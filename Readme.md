@@ -2,7 +2,19 @@
 
 * Студент: [Сергей Захаров](https://up.htmlacademy.ru/htmlcss/16/user/296683).
 
+<<<<<<< HEAD
 * Наставник: [Данил Ефремов] (https://htmlacademy.ru/profile/id67675)---
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+* Наставник: [Данил Ефремов] (https://htmlacademy.ru/profile/id67675)---
+=======
+---* Наставник [Данил Ефремов]
+>>>>>>> origin/master
+=======
+---* Наставник [Данил Ефремов]
+>>>>>>> origin/master
+>>>>>>> master
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
 _`.editorconfig`, `.gitignore`, `Contributing.md`, `Readme.md`._
