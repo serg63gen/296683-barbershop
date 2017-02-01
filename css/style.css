@@ -1,0 +1,377 @@
+html,
+body{
+    min-width: 1200px;
+    min-height: 1173px;
+    margin: 0;
+    padding: 0;
+}
+body{
+   background-size: 1200px auto;
+   background-color: bisque;
+}
+.container{
+    border: 1px solid  red;
+    width: 940px;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+.main-header-layout {
+  display: flex;
+  justify-content: space-between;
+ margin-bottom: 10px 
+}
+/*header   */
+.logo {
+    background-color: burlywood;
+    width: 111px;
+    height: 24px;
+}
+.main-navigation{
+    width: 540px;
+}
+.user-block{
+    width: 68px;
+height: 70px;
+}
+/*main*/
+.main-info-layout{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  width: 940px;
+  height: 914px;
+  flex-basis: 100%;
+}
+.top-column{
+  width: 300px;
+  height: 62px;
+  margin-top: 60px;
+}
+.left-column{
+  width: 172px;
+  height: 600px;
+  margin-top: 60px;
+}
+.photo-layout{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 700px;
+  height: 590px;
+  margin-top: 210px;
+    margin-left: -100px;
+}
+  
+.button{
+width: 193px;
+height: 43px;
+margin-top: 40px;
+}
+/*footer*/
+.main-footer-layout {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 65px;
+}
+.footer-contact{
+    width: 320px;
+    /* Только для оформления сетки */
+  min-height: 90px;
+}
+.footer-social{
+    width: 200px;
+    /* Только для оформления сетки */
+  min-height: 90px;
+}
+.footer-development{
+    width: 200px;
+    /* Только для оформления сетки */
+  min-height: 90px;
+}
+
+/*catalog-item*/
+.top-item-layout{
+    display: flex;
+    flex-wrap: wrap;
+    width: 624px;
+   margin-left: 395px;
+    margin-bottom: 10px;
+}
+a{
+    text-decoration: none;
+    color: white;
+} 
+li{
+    display: inline-block
+}
+    
+.main-item-layout{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 940px;
+}
+.photo-item-layout{
+    width: 460px;
+}
+.info{
+    width: 320px;
+    height: 300px;
+    margin-left: 40px;
+}
+.composition{
+    margin-left: 40px;
+    width: 240px;
+   
+    
+}
+    
+   
+
+   
+    
+    
+  
+   
+
+   
+    
+
+    
+   
+    
+    
+   
+    
+    
+    
+        
+    
+    
+
+    
+
+    
+    
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
